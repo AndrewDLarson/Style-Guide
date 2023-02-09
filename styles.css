@@ -4,6 +4,8 @@ h1 {
     font-size: 75px;
     background-color: rgb(0, 0, 0);
     color: rgb(0, 150, 7);
+    font-family: 'Metal Mania';
+    letter-spacing: 3px;
 }
 
 .section {
@@ -84,6 +86,11 @@ h3 {
 
 .italic {
     font-style: italic;
+}
+
+#introstatment {
+    color: rgb(10, 247, 10);  
+    font-family: 'Atomic Age';
 }
 
 footer {
